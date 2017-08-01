@@ -1,0 +1,16 @@
+MANIFEST.in
+meta.json
+setup.py
+vi_vivi/__init__.py
+vi_vivi/meta.json
+vi_vivi.egg-info/PKG-INFO
+vi_vivi.egg-info/SOURCES.txt
+vi_vivi.egg-info/dependency_links.txt
+vi_vivi.egg-info/not-zip-safe
+vi_vivi.egg-info/requires.txt
+vi_vivi.egg-info/top_level.txt
+vi_vivi/vi_vivi-0.0.1/meta.json
+vi_vivi/vi_vivi-0.0.1/vocab/lexemes.bin
+vi_vivi/vi_vivi-0.0.1/vocab/oov_prob
+vi_vivi/vi_vivi-0.0.1/vocab/strings.json
+vi_vivi/vi_vivi-0.0.1/vocab/vec.bin
