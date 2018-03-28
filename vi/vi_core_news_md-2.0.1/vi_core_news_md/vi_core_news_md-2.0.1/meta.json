@@ -1,0 +1,20 @@
+{
+  "lang":"vi",
+  "name":"core_news_md",
+  "version":"2.0.1",
+  "spacy_version":">=2.0.9",
+  "description":"",
+  "author":"Viet-Trung Tran",
+  "email":"mr.trungtv@gmail.com",
+  "url":"",
+  "license":"",
+  "vectors":{
+    "width":150,
+    "vectors":205296,
+    "keys":205293
+  },
+  "pipeline":[
+    "tagger",
+    "parser"
+  ]
+}
