@@ -9,8 +9,8 @@ Vivi_spacy contains Vietnamese models for spaCy. We trained word2vec on a combin
     ```
 3. You may need to install pyvi as well
     ```bash 
-    pip install pyvi 
-    ```
+    pip install pyvi 
+    ```
 
 ## Usage: import as module 
 ```python
