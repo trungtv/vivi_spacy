@@ -3,6 +3,8 @@ Vivi_spacy contains Vietnamese models for spaCy. We trained word2vec on a combin
 ## Installation 
 1. Download vivi model directly using pip: e.g. pip install https://github.com/trungtv/vivi_spacy/raw/master/vi/vi_core_news_md-2.0.1/dist/vi_core_news_md-2.0.1.tar.gz
 
+    You can also download from my google drive: https://drive.google.com/file/d/1d5boGovdupmynsgDRhHyk3E6pNhwFXff/view
+
 2. This is a dirty patch while we are preparing to send spaCy a pull request 
     ```bash 
     cp vi/vi [your installed spaCy]/spacy/lang/vi
