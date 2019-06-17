@@ -1,4 +1,4 @@
-# vivi_spacy
+# vivi_spacy (WON'T WORK for SPACY Verson > 2.1!!! TO BE UPDATED)
 Vivi_spacy contains Vietnamese models for spaCy. We trained word2vec on a combination of wikipedia and news corpus, vector size = 150. Pos tagger and DEP parser are trained on UD Vietnamese (http://universaldependencies.org/treebanks/vi/index.html)
 ## Installation 
 1. Download vivi model directly using pip: e.g. pip install https://github.com/trungtv/vivi_spacy/raw/master/vi/vi_core_news_md-2.0.1/dist/vi_core_news_md-2.0.1.tar.gz
